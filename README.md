@@ -1,6 +1,6 @@
 ### Hi there, I'm Miha Meglic
 
-I'm a computer science student with a love for electronics engineering and photography.
+I'm a computer science student with a love for electronics engineering and photography.  
 I'm from Slovenia and am currently studying CS at the University of Ljubljana.
 
 ### Connect with me
@@ -8,7 +8,6 @@ I'm from Slovenia and am currently studying CS at the University of Ljubljana.
 [<img align="left" alt="Miha Meglič | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MihaMeglicProductions | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br/>
 <br/>
 
 ---
@@ -29,19 +28,3 @@ I'm from Slovenia and am currently studying CS at the University of Ljubljana.
 
 [linkedin]: https://www.linkedin.com/in/miha-megli%C4%8D/
 [instagram]: https://www.instagram.com/mihameglicproductions/
-
-
-<!--
-**miha-meglic/miha-meglic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
